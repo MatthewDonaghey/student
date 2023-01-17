@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author Matth
+ * anything
  */
 public class ReverseWord {
     public static void main(String[] args){

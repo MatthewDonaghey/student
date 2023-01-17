@@ -11,6 +11,7 @@ import java.util.Scanner;
  *
  * @author Matth
  * anything
+ * another anything
  */
 public class ReverseWord {
     public static void main(String[] args){

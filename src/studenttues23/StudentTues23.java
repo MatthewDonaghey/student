@@ -10,12 +10,21 @@ package studenttues23;
  */
 public class StudentTues23 {
     
-    private String studentID, studentName;
+    private String studentID, studentName, address;
 
     public StudentTues23(String studentID, String studentName) {
         this.studentID = studentID;
         this.studentName = studentName;
     }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+    
 
     public String getStudentID() {
         return studentID;
